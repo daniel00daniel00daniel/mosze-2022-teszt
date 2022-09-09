@@ -22,5 +22,6 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+    std::cout << "Ez egy random szoveg, amit beleirtam :D" << std::endl;
     return 0;
 }
